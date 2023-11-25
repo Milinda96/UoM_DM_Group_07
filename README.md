@@ -1,7 +1,5 @@
 # In23-S3-CS5227 Data Mining: Project Source Code [Group]
 
-# Fuel Efficiency Analysis
-
 ## Overview
 This project aims to analyze fuel efficiency trends, transmission preferences, vehicle classes, and manufacturer patterns in the Canadian light-duty vehicle market. The analysis is based on a dataset containing fuel consumption ratings and estimated carbon dioxide emissions for new vehicles from 2000 to 2022.
 
