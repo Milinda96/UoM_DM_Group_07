@@ -12,7 +12,7 @@ Apply pattern mining techniques to determine the best vehicle model with the low
 Utilize pattern mining techniques to identify the transmission type of the best fuel-efficient model, providing insights into the transmission preferences of eco-conscious consumers.
 
 ### 3. To identify the best fuel consumption vehicle classes and model
-To identify the best fuel consumption (lowest value of "COMB (L/100 km)") for each vehicle class and model using pattern mining techniques
+To identify the best fuel consumption vehicle class and the lowest make for the class: Use pattern mining techniques together with machine learning to identify the lowest fuel consumption for each vehicle class and the respective lowest “Make” for the vehicle class.
 
 ### 4. To explore manufacturer trends
 Apply clustering to identify patterns in manufacturers' fuel efficiency and determine whether specific manufacturers consistently produce fuel-efficient models or if there are shifts in manufacturers' fuel efficiency over time.
